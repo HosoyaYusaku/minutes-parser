@@ -27,7 +27,7 @@ An interactive Google Colab tool to parse meeting minutes from various file form
 
 ## 🚀 How to Use
 
-1. **Open in Colab** <a href="https://colab.research.google.com/github/あなたのユーザー名/minutes-parser/blob/main/minutes_parser.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+1. **Open in Colab** <a href="https://colab.research.google.com/github/HosoyaYusaku/minutes-parser/blob/main/minutes_parser.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 2. **Set Delimiters**
    At the top of the notebook, modify the `delimiters_input` variable to match your documents’ markers.
 3. **Upload Files**
@@ -109,7 +109,7 @@ The tool outputs a ZIP archive with one JSON file per successfully processed inp
 
 ## 🚀 使い方
 
-1. **Colabで開く** <a href="https://colab.research.google.com/github/あなたのユーザー名/minutes-parser/blob/main/minutes_parser.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+1. **Colabで開く** <a href="https://colab.research.google.com/github/HosoyaYusaku/minutes-parser/blob/main/minutes_parser.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 2. **区切り文字の設定**
    ノートブック冒頭の `delimiters_input` を編集。
 3. **ファイルのアップロード**
