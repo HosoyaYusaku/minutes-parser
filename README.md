@@ -165,4 +165,4 @@ The tool outputs a ZIP archive with one JSON file per successfully processed inp
 ## 📄 ライセンス
 
 This project is licensed under the MIT License.
-詳細は `LICENSE` ファイルをご覧ください。
+詳細は[LICENSE](LICENSE)ファイルをご覧ください。
